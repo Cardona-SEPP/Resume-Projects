@@ -1,4 +1,4 @@
-# Resume Projects
+# Department Salary Cost Analysis
 
 This repository contains SQL projects I created to demonstrate my data analysis and business analytics skills.
 
