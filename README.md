@@ -38,7 +38,8 @@ Which departments contribute the most to total payroll, and how is salary cost d
 - Business metric construction
 
 ### Output Example (sample)
-<img width="648" height="133" alt="image" src="https://github.com/user-attachments/assets/a20c3b6d-7ba0-4739-9c12-28c63f586b98" />
+<img width="686" height="134" alt="image" src="https://github.com/user-attachments/assets/4f68af40-d9c0-43d9-b9b3-55ffc2585627" />
+
 
 
 ## Tools Used
